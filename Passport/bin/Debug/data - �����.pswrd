@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<passport>
+  <passwords>
+    <group Name="1">
+      <card Name="First Passcard">
+        <item Param="Password" Value="F2sggz5m7M" />
+        <item Param="6ордпроао" Value="shpDFOParamip" />
+        <item Param="Login" Value="б76дд" />
+      </card>
+      <card Name="Another passcard" />
+    </group>
+    <group Name="2" />
+    <group Name="3">
+      <card Name="SUPER Passcard">
+        <item Param="URL" Value="www.site.com" />
+        <item Param="Password" Value="vKHu4gH90i" />
+        <item Param="Login" Value="GOD" />
+        <item Param="Other" Value="sgn68ui" />
+      </card>
+    </group>
+    <group Name="4" />
+    <group Name="5" />
+    <group Name="7" />
+    <group Name="8689797">
+      <card Name="дю87978">
+        <item Param="Card Number" Value="39F90t0med" />
+        <item Param="Skype" Value="8LRlHfwo05" />
+        <item Param="Phone" Value="lPOV6QL90C" />
+      </card>
+      <card Name="коста">
+        <item Param="Password" Value="G947Ok0a8d" />
+      </card>
+    </group>
+  </passwords>
+</passport>
